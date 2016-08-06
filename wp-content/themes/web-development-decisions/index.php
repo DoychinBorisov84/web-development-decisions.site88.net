@@ -11,7 +11,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Sixteen
- * @since Djimbo Style
+ * @since Djimbo Style 1.0
  */
 
 get_header(); ?>
